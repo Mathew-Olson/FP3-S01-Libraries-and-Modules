@@ -1,0 +1,14 @@
+HP = 30    #player stats
+AC = 14
+num_of_rooms = 0 
+inventory_battle = []
+inventory_utility = []
+health_potion = ['health potion', 20]
+nothing = ['Bare Hands', 2, 2] #weapons
+rusty_dagger = ['Rusty Dagger', 3, 5]
+grass_cutter = ['Grass Cutter', 5, 8]
+great_axe = ['Great Axe', 4, 10]
+current_weapon = nothing
+tree_thing = ['tree creature', 8, 2, 4, 14] #creatures
+flesh_golem = ['flesh golem', 15, 5, 8, 12] 
+litch = ['litch', 25, 10, 12, 15]
